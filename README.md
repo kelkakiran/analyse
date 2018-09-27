@@ -1,7 +1,7 @@
 # Setup Instruction for Local Development
 
 ```bash
-git clone https://github.com/ifaisalalam/analysed
+git clone https://github.com/kelkakiran/analyse
 cd analysed
 composer install
 
